@@ -1,0 +1,19 @@
+# Bağımlılıklar (BASLAT.bat otomatik kurar)
+node_modules/
+*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Yapılandırma ve Şifre Güvenliği
+config.json
+server/config.json
+
+# Geçici ve Sistem Dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+.vscode/
+.idea/
